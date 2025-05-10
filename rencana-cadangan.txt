@@ -1,6 +1,8 @@
 Rencana cadaangan aa
 
 -python
+def(parameter)
+tkinter
 *args,**kwargs
 class
 getter & setter
