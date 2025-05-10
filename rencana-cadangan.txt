@@ -4,5 +4,9 @@ Rencana cadaangan aa
 def(parameter)
 tkinter
 *args,**kwargs
+class
+getter & setter
 Decorator
-tensorflow
+-sql
+-mcl
+TensorFlow
