@@ -1,7 +1,8 @@
 Rencana cadaangan aa
 
 -python
+def(parameter)
+tkinter
 *args,**kwargs
 Decorator
--sql
--mcl
+tensorflow
