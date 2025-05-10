@@ -2,6 +2,9 @@ Rencana cadaangan aa
 
 -python
 *args,**kwargs
+class
+getter & setter
 Decorator
 -sql
 -mcl
+TensorFlow
