@@ -1,0 +1,6 @@
+Rencana cadaangan aa
+
+-python
+*args,**kwargs
+-sql
+-mcl
